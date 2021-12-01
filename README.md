@@ -4,7 +4,6 @@ welcome to my pages
 
 
 
-[第一章 ]:/math/Chapter1/
-[第一章]:/math/Chapter1
-[pdf]:./ZSB/math/Chapter1/README.pdf
+[第一章 函数 极限 连续]:https://quanlongcs.github.io/ZSB/math/Ch1/
+
 
