@@ -6,5 +6,5 @@ welcome to my pages
 
 
  2021年12月20日15:28:35 Ch2
- [第二章: 一元函数微分学及其应用](https://quanlongcs.github.io/ZSB/math/Ch2/README.html)
+ [第二章: 一元函数微分学及其应用](https://quanlongcs.github.io/ZSB/math/Ch2/index.html)
 
