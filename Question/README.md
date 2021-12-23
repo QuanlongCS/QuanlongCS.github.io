@@ -8,10 +8,6 @@
 
 
 
-[TOC]
-
-# 主义主义-未明子
-
 ## 如何做到无欲无求
 
 [【二十分钟哲学·精神分析】如何做到“无欲无求”_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1t54y1s7am)
