@@ -13,7 +13,7 @@ welcome to my pages
 
 
 2022年1月9日 Ch3
-[第三章: 一元函数积分学及其应用](https://quanlongcs.github.io/ZSB/Math/Ch3/README.html)
+[第三章: 一元函数积分学及其应用](https://quanlongcs.github.io/ZSB/math/Ch3/README.html)
 
 
 
