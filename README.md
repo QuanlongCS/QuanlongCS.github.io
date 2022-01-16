@@ -17,3 +17,8 @@ welcome to my pages
 
 
 
+2022年1月16日 Ch4
+[第四章: 常微分方程](https://quanlongcs.github.io/ZSB/math/Ch4/README.html)
+
+
+
