@@ -27,3 +27,13 @@ welcome to my pages
 
 
 
+
+
+2022年2月14日 Ch6
+[第五章: 多元函数微分学](https://quanlongcs.github.io/ZSB/math/Ch6/README.html)
+
+2022年2月14日 Ch7
+[第五章: 多元函数积分学](https://quanlongcs.github.io/ZSB/math/Ch7/README.html)
+
+
+
