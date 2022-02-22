@@ -8,7 +8,7 @@ welcome to my pages
 
 
 2021年12月20日 Ch2
-[第二章: 一元函数微分学及其应用](https://quanlongcs.github.io/ZSB/math/Ch2/index.html)
+[第二章: 一元函数微分学及其应用](https://quanlongcs.github.io/ZSB/math/Ch2/README.html)
 
 
 
