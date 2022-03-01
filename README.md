@@ -38,7 +38,7 @@ welcome to my pages
 
 
 2022年2月19日 Ch8
-[第八章: 无穷级数](https://quanlongcs.github.io/ZSB/math/Ch8/README.html)
+[第八章: 无穷级数](https://quanlongcs.github.io/ZSB/Math/Ch8/README.html)
 
 
 
